@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/den/Smart/android-build/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/den/Smart/android-build/res/values/libs.xml",
+                    "from": {
+                        "startLines": "9,32,13,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "292,1242,347,55",
+                        "endLines": "11,34,30,4",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "341,1443,1236,166"
+                    },
+                    "to": {
+                        "startLines": "2,5,8,26",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,109,315,1209",
+                        "endLines": "4,7,25,28",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "104,310,1204,1320"
+                    }
+                },
+                {
+                    "source": "/home/den/Qt/5.14.0/android/src/android/java/res/values/strings.xml",
+                    "from": {
+                        "startLines": "5,4,3,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "319,197,85,427",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "422,314,192,520"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "1325,1433,1555,1667",
+                        "endColumns": "107,121,111,97",
+                        "endOffsets": "1428,1550,1662,1760"
+                    }
+                }
+            ]
+        }
+    ]
+}
